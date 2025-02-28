@@ -16,4 +16,6 @@ IO remote control a cassette tape drive that has the following features, control
 
 ## Ref
 - http://www.mikekohn.net/micro/tape_data_recorder.php
+- https://www.amazon.de/auvisio-Kassetten-Adapter-Kassettenautoradio-Kassettenadapter-silber/dp/B006FK9TQK
+- https://usb.brando.com/usb-cassette-mp3-player_p01122c035d15.html
 - 
